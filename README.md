@@ -72,15 +72,9 @@ Open and execute detect.ipynb to perform defect detection on new physical and th
 The dataset consists of physical and thermal images of solar panels. To obtain access to the dataset, please contact the project maintainer.
 
 ### How to Request the Dataset
-To request access to the dataset, please send an email to:
+To request access to the dataset, please fill the contact form below:
 
-Email: imyugesh.s@gmail.com
-
-Include the following information in your email:
-
-- Your full name
-- Affiliation (e.g., university, company)
-- Purpose of using the dataset
+**Contact Form**: https://forms.gle/gbnD57wG6oRVJ3aT8
 
 ## Results
 The results of the defect detection will be saved in the specified output directory, including visualizations and detailed reports.
@@ -111,6 +105,7 @@ git push origin feature/AmazingFeature
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Yugesh S - imyugesh.s@gmail.com
+
+**Contact Form**: https://forms.gle/gbnD57wG6oRVJ3aT8
 
 Project Link: https://github.com/yugeshsivakumar/solar-panel-defect-detection
